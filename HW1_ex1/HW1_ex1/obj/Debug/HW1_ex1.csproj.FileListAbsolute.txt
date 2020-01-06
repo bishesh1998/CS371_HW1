@@ -1,0 +1,6 @@
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\obj\Debug\HW1_ex1.csprojAssemblyReference.cache
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\bin\Debug\HW1_ex1.exe.config
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\bin\Debug\HW1_ex1.exe
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\bin\Debug\HW1_ex1.pdb
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\obj\Debug\HW1_ex1.exe
+C:\Users\btuladhar22\source\repos\HW1_ex1\HW1_ex1\obj\Debug\HW1_ex1.pdb
