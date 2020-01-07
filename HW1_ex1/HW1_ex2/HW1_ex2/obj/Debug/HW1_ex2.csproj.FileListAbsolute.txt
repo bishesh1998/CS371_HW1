@@ -1,6 +1,0 @@
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe.config
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.pdb
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.csprojAssemblyReference.cache
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.exe
-C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.pdb
