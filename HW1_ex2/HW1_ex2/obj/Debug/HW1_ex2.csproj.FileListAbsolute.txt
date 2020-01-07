@@ -1,0 +1,15 @@
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe.config
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.pdb
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.csprojAssemblyReference.cache
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.exe
+C:\Users\btuladhar22\source\repos\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.pdb
+D:\Classes\Windows Application Development\HW1-master\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.csprojAssemblyReference.cache
+D:\Classes\Windows Application Development\HW1-master\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.exe
+D:\Classes\Windows Application Development\HW1-master\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.pdb
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe.config
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.exe
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\bin\Debug\HW1_ex2.pdb
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.csprojAssemblyReference.cache
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.exe
+C:\Users\Bishesh\HW1\HW1_ex2\HW1_ex2\obj\Debug\HW1_ex2.pdb
